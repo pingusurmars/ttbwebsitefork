@@ -1,6 +1,9 @@
 # TTB's Website
 my website which you can see at https://thetechboy.net 💯💯💯
 
+# Notice:
+Since i don't need this fork anymore as i now have contributor status on the main repo i'll be archiving it as of 4/7/24 @ 17:57.
+
 # Thanks to:
 TheTechBoy, for.. well making the actual website
 
